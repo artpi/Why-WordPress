@@ -14,7 +14,9 @@ Currently, WordPress powers about 24% of the *World Wide Web* sites (2015, [W3Te
 
 
 # WordPress is easy to maintain
-WordPress has a very good 
+There are many good WordPress developers, and the standards are well documented. 10 years from now it will not be a problem to implement a new feature on your website. 
+Currently, there are 37,372 free plugins and on on of the theme marketplaces (themeforest.com) there are 5323 themes available.
+If a need arises to add a functionality
 
 ## Everything is possible
 Extensibility is at the core of WordPress. 
@@ -22,12 +24,13 @@ Most certainly, it is possible to accomodate your business needs, or any other w
 
 # Building on top of WordPress is cheper and faster
 
+We like to focus on making your website stand out. Implementing base requirements will just take time and budget. WordPress provides extremely well-tested and robust foundation for your new spectacular website.
 
 # WordPress is very well documented
-
+[Codex.wordpress.com](http://codex.wordpress.com) provides an extensive documentation of every feature of WordPress. Additionally, [WordPress.tv](http://wordpress.tv/) provides video tutorials.
 
 # WordPress is tested and secure
-
+Bilions of people visit website built with WordPress. This kind of live test coverage is not easy to replicate.
 
 # WordPress is fixed really fast
 Whenever a vulnerability or a bug is uncovered in WordPress, the community or Automattic (the company overseeing WordPress development) fixes it really fast (TODO: stats needed) and pushes an automatic update. Additional personnel is not needed, even years after website development.
