@@ -1,7 +1,7 @@
 # Why-WordPress
 Arguments to use for convincing prospective client that He/She should go with WordPress as a platform
 
-**TLDR: **[WHY?](./EN/WHY.md)
+**TLDR:** [WHY?](./EN/WHY.md)
 
 # Why
 Have you ever had to create a presentation, document or a development plan in which you had to convince your (prospective) client to go with WordPress instead of Sharepoint / or (god forbid) `custom CMS built from scratch` ?
