@@ -1,5 +1,5 @@
 # Why-WordPress
-Arguments to use for convincing prospective client that He/She should go with WordPress as a platform
+Arguments for convincing a prospective client that he/she should choose WordPress.
 
 **TLDR:** [WHY?](./EN/WHY.md)
 
