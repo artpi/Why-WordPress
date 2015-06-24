@@ -24,3 +24,8 @@ This is a work in progress started a day before `Wordcamp Europe`. I hope this h
 
 I think it would be best to stick with Markdown format, but everything goes :)
 Please, fork this repo and write!
+
+### TODO
+* More slide bullet points
+* More convincing argumentation
+* Other languages
