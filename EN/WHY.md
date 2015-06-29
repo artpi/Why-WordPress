@@ -22,6 +22,8 @@ If a need arises to add a functionality
 Extensibility is at the core of WordPress. 
 Most certainly, it is possible to accomodate your business needs, or any other website structure imaginable.
 
+Everything possible in any other CMS can be also implemented in WordPress, but much easier.
+
 # Building on top of WordPress is cheper and faster
 
 We like to focus on making your website stand out. Implementing base requirements will just take time and budget. WordPress provides extremely well-tested and robust foundation for your new spectacular website.
@@ -31,6 +33,7 @@ We like to focus on making your website stand out. Implementing base requirement
 
 # WordPress is tested and secure
 Bilions of people visit website built with WordPress. This kind of live test coverage is not easy to replicate.
+More than 2000 people (TODO: reference needed) contributed to WordPress uncovering vulnerabilities and fixing bugs making it the most reviewed CMS in the world.
 
 # WordPress is fixed really fast
 Whenever a vulnerability or a bug is uncovered in WordPress, the community or Automattic (the company overseeing WordPress development) fixes it really fast (TODO: stats needed) and pushes an automatic update. Additional personnel is not needed, even years after website development.

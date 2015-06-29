@@ -1,6 +1,8 @@
 # Why-WordPress
 Arguments for convincing a prospective client that he/she should choose WordPress.
 
+Updated with **Matt Mullenweg`s** answer from WordCamp Europe 2015
+
 **TLDR:** [WHY?](./EN/WHY.md)
 
 # Why
