@@ -24,7 +24,7 @@ Most certainly, it is possible to accomodate your business needs, or any other w
 
 Everything possible in any other CMS can be also implemented in WordPress, but much easier.
 
-# Building on top of WordPress is cheper and faster
+# Building on top of WordPress is cheaper and faster
 
 We like to focus on making your website stand out. Implementing base requirements will just take time and budget. WordPress provides extremely well-tested and robust foundation for your new spectacular website.
 
